@@ -1,0 +1,165 @@
+
+[
+  {
+    "chapter_number": 1,
+    "chapter_name_sanskrit": "अर्जुनविषादयोगः",
+    "chapter_name_english": "Arjuna's Despondency",
+    "chapter_name_telugu": "అర్జున విషాద యోగం",
+    "plain_telugu_summary": "ఈ మొదటి అధ్యాయంలో, కురుక్షేత్ర యుద్ధభూమిలో ఇరుపక్షాల సైన్యాలు మోహరించి ఉండగా, అర్జునుడు తన బంధువులను, గురువులను చూసి తీవ్రమైన దుఃఖానికి లోనవుతాడు. యుద్ధం చేయడం వల్ల కలిగే నష్టాలను తలచుకుని, యుద్ధం చేయనని నిశ్చయించుకుంటాడు. అతని మానసిక సంఘర్షణ, విషాదం ఈ అధ్యాయంలో ప్రధానంగా వర్ణించబడ్డాయి.",
+    "key_concepts_telugu": ["అర్జునుడి దుఃఖం", "యుద్ధ విముఖత", "బంధుప్రీతి", "ధర్మసంకటం"],
+    "key_shlokas_in_chapter": ["1.28-1.30", "1.46"]
+  },
+  {
+    "chapter_number": 2,
+    "chapter_name_sanskrit": "सांख्ययोगः",
+    "chapter_name_english": "Contents of the Gita Summarized",
+    "chapter_name_telugu": "సాంఖ్య యోగం",
+    "plain_telugu_summary": "రెండవ అధ్యాయంలో శ్రీకృష్ణుడు ఆత్మ యొక్క నిత్యత్వాన్ని, దేహము యొక్క అనిత్యత్వాన్ని వివరిస్తాడు. అర్జునుడి శోకాన్ని పోగొట్టడానికి జ్ఞానోపదేశం చేస్తాడు. కర్మయోగం, స్థితప్రజ్ఞుని లక్షణాలు కూడా ఈ అధ్యాయంలో చెప్పబడ్డాయి.",
+    "key_concepts_telugu": ["ఆత్మజ్ఞానం", "కర్మయోగం", "స్థితప్రజ్ఞత", "జననమరణాలు"],
+    "key_shlokas_in_chapter": ["2.13", "2.22", "2.47", "2.56"]
+  },
+  {
+    "chapter_number": 3,
+    "chapter_name_sanskrit": "कर्मयोगः",
+    "chapter_name_english": "Karma Yoga",
+    "chapter_name_telugu": "కర్మ యోగం",
+    "plain_telugu_summary": "ఈ అధ్యాయంలో శ్రీకృష్ణుడు నిష్కామ కర్మయోగం యొక్క ప్రాముఖ్యతను వివరిస్తాడు. ఫలాపేక్ష లేకుండా కర్తవ్య కర్మలను ఆచరించడం ద్వారా మోక్షాన్ని ఎలా పొందవచ్చో తెలియజేస్తాడు.",
+    "key_concepts_telugu": ["నిష్కామ కర్మ", "యజ్ఞం", "లోకసంగ్రహం", "కామక్రోధాలు"],
+    "key_shlokas_in_chapter": ["3.5", "3.19", "3.27", "3.37"]
+  },
+  {
+    "chapter_number": 4,
+    "chapter_name_sanskrit": "ज्ञानकर्मसंन्यासयोगः",
+    "chapter_name_english": "Transcendental Knowledge",
+    "chapter_name_telugu": "జ్ఞాన కర్మ సన్న్యాస యోగం",
+    "plain_telugu_summary": "భగవంతుని అవతార రహస్యం, జ్ఞానం యొక్క గొప్పదనం, జ్ఞానాగ్ని ద్వారా కర్మలు ఎలా దగ్ధమవుతాయో ఈ అధ్యాయంలో వివరించబడింది. గురువు యొక్క ఆవశ్యకత కూడా చెప్పబడింది.",
+    "key_concepts_telugu": ["అవతార తత్వం", "జ్ఞాన యజ్ఞం", "కర్మబంధ విముక్తి", "గురు ఉపదేశం"],
+    "key_shlokas_in_chapter": ["4.7-8", "4.34", "4.37"]
+  },
+  {
+    "chapter_number": 5,
+    "chapter_name_sanskrit": "कर्मसंन्यासयोगः",
+    "chapter_name_english": "Karma Sannyasa Yoga",
+    "chapter_name_telugu": "కర్మ సన్న్యాస యోగం",
+    "plain_telugu_summary": "కర్మసన్న్యాసం కంటే కర్మయోగమే శ్రేష్ఠమని ఈ అధ్యాయంలో చెప్పబడింది. సమదర్శనం, బ్రహ్మనిష్ఠ గురించి వివరించబడింది.",
+    "key_concepts_telugu": ["కర్మయోగం", "కర్మసన్న్యాసం", "సమదర్శనం", "బ్రహ్మనిర్వాణం"],
+    "key_shlokas_in_chapter": ["5.2", "5.18", "5.29"]
+  },
+  {
+    "chapter_number": 6,
+    "chapter_name_sanskrit": "आत्मसंयमयोगः",
+    "chapter_name_english": "Dhyana Yoga",
+    "chapter_name_telugu": "ఆత్మసంయమ యోగం",
+    "plain_telugu_summary": "ధ్యానయోగం, మనోనిగ్రహం, యోగి లక్షణాలు, యోగభ్రష్టుల గతి ఈ అధ్యాయంలో వివరంగా చెప్పబడ్డాయి.",
+    "key_concepts_telugu": ["ధ్యానయోగం", "మనోనిగ్రహం", "యోగి", "ఆత్మదర్శనం"],
+    "key_shlokas_in_chapter": ["6.5-6", "6.29", "6.47"]
+  },
+  {
+    "chapter_number": 7,
+    "chapter_name_sanskrit": "ज्ञानविज्ञानयोगः",
+    "chapter_name_english": "Knowledge of the Absolute",
+    "chapter_name_telugu": "జ్ఞాన విజ్ఞాన యోగం",
+    "plain_telugu_summary": "భగవంతుని స్వరూపం, ప్రకృతి, భగవంతుని శరణాగతి, వివిధ రకాల భక్తులు ఈ అధ్యాయంలో వర్ణించబడ్డారు.",
+    "key_concepts_telugu": ["పరమాత్మ తత్వం", "మాయ", "శరణాగతి", "చతుర్విధ భక్తులు"],
+    "key_shlokas_in_chapter": ["7.7", "7.14", "7.16", "7.19"]
+  },
+  {
+    "chapter_number": 8,
+    "chapter_name_sanskrit": "अक्षरब्रह्मयोगः",
+    "chapter_name_english": "Attaining the Supreme",
+    "chapter_name_telugu": "అక్షరబ్రహ్మ యోగం",
+    "plain_telugu_summary": "బ్రహ్మ, అధ్యాత్మ, కర్మ, అధిభూత, అధిదైవ, అధియజ్ఞాల గురించి, మరణ సమయంలో భగవంతుని ఎలా స్మరించాలో ఈ అధ్యాయంలో చెప్పబడింది.",
+    "key_concepts_telugu": ["అక్షరబ్రహ్మ", "ప్రణవ ఉపాసన", "అంత్యకాల స్మరణ", "శుక్లకృష్ణ గతులు"],
+    "key_shlokas_in_chapter": ["8.5", "8.13", "8.16"]
+  },
+  {
+    "chapter_number": 9,
+    "chapter_name_sanskrit": "राजविद्याराजगुह्ययोगः",
+    "chapter_name_english": "The Most Confidential Knowledge",
+    "chapter_name_telugu": "రాజవిద్యా రాజగుహ్య యోగం",
+    "plain_telugu_summary": "ఇది అన్ని విద్యలలో ఉత్తమమైనది, అత్యంత రహస్యమైన జ్ఞానం. భగవంతుని మహిమ, భక్తియోగం యొక్క గొప్పదనం ఈ అధ్యాయంలో వివరించబడ్డాయి.",
+    "key_concepts_telugu": ["రాజవిద్య", "రాజగుహ్యం", "భక్తియోగం", "భగవన్మహిమ"],
+    "key_shlokas_in_chapter": ["9.2", "9.22", "9.26", "9.34"]
+  },
+  {
+    "chapter_number": 10,
+    "chapter_name_sanskrit": "विभूतियोगः",
+    "chapter_name_english": "The Opulence of the Absolute",
+    "chapter_name_telugu": "విభూతి యోగం",
+    "plain_telugu_summary": "భగవంతుని అనంతమైన విభూతులు (ఐశ్వర్యాలు) ఈ అధ్యాయంలో చెప్పబడ్డాయి. సృష్టిలోని ప్రతి అద్భుతంలోనూ భగవంతుని దర్శించమని ఉపదేశం.",
+    "key_concepts_telugu": ["విభూతి", "భగవత్ స్వరూపం", "సృష్టి రహస్యం", "ఏకాగ్ర చింతన"],
+    "key_shlokas_in_chapter": ["10.8", "10.19-42 (selected Vibhutis)"]
+  },
+  {
+    "chapter_number": 11,
+    "chapter_name_sanskrit": "विश्वरूपदर्शनयोगः",
+    "chapter_name_english": "The Universal Form",
+    "chapter_name_telugu": "విశ్వరూపదర్శన యోగం",
+    "plain_telugu_summary": "అర్జునుడి ప్రార్థనపై శ్రీకృష్ణుడు తన విశ్వరూపాన్ని ప్రదర్శిస్తాడు. ఆ అద్భుత, భయానక రూపాన్ని చూసి అర్జునుడు ఆశ్చర్యచకితుడై ప్రార్థిస్తాడు.",
+    "key_concepts_telugu": ["విశ్వరూపం", "భగవంతుని అనంతత్వం", "అర్జునుడి ప్రార్థన", "కాల స్వరూపం"],
+    "key_shlokas_in_chapter": ["11.3", "11.8", "11.32", "11.55"]
+  },
+  {
+    "chapter_number": 12,
+    "chapter_name_sanskrit": "भक्तियोगः",
+    "chapter_name_english": "Devotional Service",
+    "chapter_name_telugu": "భక్తి యోగం",
+    "plain_telugu_summary": "సాకార, నిరాకార ఉపాసనల గురించి, భక్తియోగం యొక్క శ్రేష్ఠత, ఉత్తమ భక్తుని లక్షణాలు ఈ అధ్యాయంలో వివరించబడ్డాయి.",
+    "key_concepts_telugu": ["భక్తియోగం", "సాకారోపాసన", "నిరాకారోపాసన", "భక్తుని లక్షణాలు"],
+    "key_shlokas_in_chapter": ["12.2", "12.5", "12.13-14"]
+  },
+  {
+    "chapter_number": 13,
+    "chapter_name_sanskrit": "क्षेत्रक्षेत्रज्ञविभागयोगः",
+    "chapter_name_english": "Nature, the Enjoyer, and Consciousness",
+    "chapter_name_telugu": "క్షేత్రక్షేత్రజ్ఞవిభాగ యోగం",
+    "plain_telugu_summary": "క్షేత్రం (శరీరం), క్షేత్రజ్ఞుడు (ఆత్మ), జ్ఞానం, జ్ఞేయం (తెలుసుకోదగినది) గురించి ఈ అధ్యాయంలో వివరించబడింది. ప్రకృతి, పురుషుల విశ్లేషణ కూడా ఉంది.",
+    "key_concepts_telugu": ["క్షేత్రం", "క్షేత్రజ్ఞుడు", "జ్ఞానం", "ప్రకృతి-పురుషుడు"],
+    "key_shlokas_in_chapter": ["13.1-2", "13.8-12 (Qualities of Knowledge)"]
+  },
+  {
+    "chapter_number": 14,
+    "chapter_name_sanskrit": "गुणत्रयविभागयोगः",
+    "chapter_name_english": "The Three Modes of Material Nature",
+    "chapter_name_telugu": "గుణత్రయవిభాగ యోగం",
+    "plain_telugu_summary": "సత్వ, రజో, తమో గుణాల గురించి, అవి జీవుడిని ఎలా బంధిస్తాయో, వాటిని ఎలా అధిగమించాలో ఈ అధ్యాయంలో చెప్పబడింది.",
+    "key_concepts_telugu": ["త్రిగుణాలు", "సత్వం", "రజస్సు", "తమస్సు", "గుణాతీతుడు"],
+    "key_shlokas_in_chapter": ["14.5", "14.26"]
+  },
+  {
+    "chapter_number": 15,
+    "chapter_name_sanskrit": "पुरुषोत्तमयोगः",
+    "chapter_name_english": "The Yoga of the Supreme Person",
+    "chapter_name_telugu": "పురుషోత్తమ యోగం",
+    "plain_telugu_summary": "సంసార వృక్ష వర్ణన, జీవాత్మ స్వరూపం, పరమాత్మ అయిన పురుషోత్తముని తత్వం ఈ అధ్యాయంలో వివరించబడ్డాయి.",
+    "key_concepts_telugu": ["పురుషోత్తముడు", "సంసార వృక్షం", "క్షరుడు-అక్షరుడు", "జీవాత్మ"],
+    "key_shlokas_in_chapter": ["15.1", "15.7", "15.15", "15.18"]
+  },
+  {
+    "chapter_number": 16,
+    "chapter_name_sanskrit": "दैवासुरसम्पद्विभागयोगः",
+    "chapter_name_english": "The Divine and Demoniac Natures",
+    "chapter_name_telugu": "దైవాసురసంపద్విభాగ యోగం",
+    "plain_telugu_summary": "దైవీ సంపద (మంచి లక్షణాలు), ఆసురీ సంపద (చెడు లక్షణాలు) గురించి, వాటి ఫలితాల గురించి ఈ అధ్యాయంలో వివరించబడింది.",
+    "key_concepts_telugu": ["దైవీ సంపద", "ఆసురీ సంపద", "శాస్త్ర ప్రమాణం", "నరక ద్వారాలు"],
+    "key_shlokas_in_chapter": ["16.1-3 (Divine Qualities)", "16.21 (Gates to Hell)"]
+  },
+  {
+    "chapter_number": 17,
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोगः",
+    "chapter_name_english": "The Divisions of Faith",
+    "chapter_name_telugu": "శ్రద్ధాత్రయవిభాగ యోగం",
+    "plain_telugu_summary": "వివిధ రకాల శ్రద్ధ (సాత్విక, రాజసిక, తామసిక), ఆహారం, యజ్ఞం, తపస్సు, దానం గురించి ఈ అధ్యాయంలో చెప్పబడింది.",
+    "key_concepts_telugu": ["త్రివిధ శ్రద్ధ", "ఆహార నియమాలు", "యజ్ఞ-దాన-తపస్సులు", "ఓం తత్ సత్"],
+    "key_shlokas_in_chapter": ["17.2", "17.23-28 (Om Tat Sat)"]
+  },
+  {
+    "chapter_number": 18,
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोगः",
+    "chapter_name_english": "Conclusion—The Perfection of Renunciation",
+    "chapter_name_telugu": "మోక్షసన్న్యాస యోగం",
+    "plain_telugu_summary": "గీత యొక్క సారాంశం, త్యాగం, సన్న్యాసం, కర్మఫలత్యాగం, భగవత్ శరణాగతి యొక్క ప్రాముఖ్యత ఈ చివరి అధ్యాయంలో సంగ్రహంగా చెప్పబడింది.",
+    "key_concepts_telugu": ["మోక్షం", "సన్న్యాసం", "త్యాగం", "శరణాగతి", "గీతాసారం"],
+    "key_shlokas_in_chapter": ["18.61", "18.65", "18.66", "18.78"]
+  }
+]
